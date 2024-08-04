@@ -229,6 +229,5 @@
 }
 
 .form__button:hover {
-  opacity: from 100% to 70%;
-  transition: smooth;
+  opacity: 100% to 70%;
 }
