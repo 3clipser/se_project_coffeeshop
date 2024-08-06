@@ -31,12 +31,11 @@
 
 .footer__list-item {
   display: flex;
-  padding-right: 80px;
-  margin: 0;
+  margin: 16px 0 0;
 }
 
 .footer__list-item:last-child {
-  margin-bottom: 16px;
+  margin-bottom: 0;
 }
 
 .footer__social-link {
@@ -51,6 +50,7 @@
 
 .footer__social-link:hover {
   color: #c1c1c1;
+  transition-duration: 2s;
 }
 
 .footer__social-icon {

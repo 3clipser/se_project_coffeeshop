@@ -19,6 +19,7 @@
   height: 568px;
   top: 124px;
   right: 5px;
+  z-index: 1;
 }
 .header__title {
   margin: 183px 0 0;
