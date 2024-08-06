@@ -23,9 +23,7 @@
   margin: 100px 0 0 80px;
   max-width: 251px;
   z-index: 1;
-  font-family: "Inter, Arial, Sans-serif";
-  font-style: normal;
-  font-weight: 500;
+  font-family: Inter, Arial, Sans-serif;
   font-size: 44px;
   line-height: 52px;
   color: white;
@@ -34,7 +32,7 @@
 .about__content {
   margin: 119px 80px 173px;
   max-width: 660px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -58,7 +56,11 @@
 }
 
 .about__paragraph {
-  margin-bottom: 20px;
+  margin: 0;
   max-width: 660px;
   padding: 0;
+}
+
+.about__paragraph:last-child {
+  margin-bottom: 0;
 }
