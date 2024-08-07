@@ -28,6 +28,7 @@
   font-size: 44px;
   line-height: 52px;
   color: white;
+  font-weight: 500;
 }
 
 .about__content {
@@ -58,7 +59,7 @@
 }
 
 .about__paragraph {
-  margin: 0;
+  margin: 20px 0 0;
   max-width: 660px;
   padding: 0;
 }
