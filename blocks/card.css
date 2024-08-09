@@ -5,7 +5,7 @@
 
 .card__title {
   margin: 0 0 32px;
-  font-family: Inter, Arial, sans-serif;
+  font-family: Inter, Arial, Sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -20,7 +20,7 @@
   list-style-type: none;
   flex-direction: column;
   gap: 16px;
-  font-family: "Noto Serif", "Times New Roman", serif;
+  font-family: "Noto Serif", "Times New Roman", Serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
